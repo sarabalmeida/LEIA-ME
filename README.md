@@ -39,7 +39,7 @@
 
 ## 📫 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarabalmeida/)  
-- 📧 **Email:** sara.almeida@email.com  
+- 📧 **Email:** sara.balmeida@hotmail.com  
 
 ---
 
