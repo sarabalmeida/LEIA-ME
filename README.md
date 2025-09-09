@@ -1,12 +1,5 @@
 # LEIA-ME
 <h1 align="center">✨ LEIA-ME ✨</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge" alt="status" />
-  <img src="https://img.shields.io/github/license/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge" alt="license" />
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge" alt="stars" />
-</p>
-
 ---
 
 ## 📌 Olá, sou Sara Almeida 👋
