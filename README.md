@@ -1,41 +1,47 @@
-# LEIA-ME
-<h1 align="center">✨ LEIA-ME ✨</h1>
----
+<h1 align="center">✨ Olá, sou Sara Almeida 👋 ✨</h1>
 
-## 📌 Olá, sou Sara Almeida 👋
-🎯 Analista de Qualidade de Software com experiência em testes manuais
-💻 Conhecimento , QA, Jira, Confluence e metodologias ágeis
-📚 Apaixonado por aprendizado contínuo, colaboração em equipe e melhoria de processos
-
-## 📌 Certificações
- Certificação ATC-NF (Analista de Teste Certificado)
----
-
-## 🚀Tecnologias e Ferramentas
- Testes Manuais (funcionais, regressivos, exploratórios, usabilidade, integração, performance)
- Testes de API: Postman, Swagger
- Bancos de Dados: Oracle PLSQL
- Gestão de Qualidade: Jira, Xray, Zephyr, Confluence, TestLink
- Metodologias: Scrum, BDD, ShiftLeft Testing
- Atualmente em curva de aprendizado em ferramentas de automação como Cypress, Robot
- Framework.
- Git e GitHub
- Metodologias Ágeis (Scrum, Kanban)
+<p align="center">
+  <img src="https://img.shields.io/badge/QA%20Analyst-Software%20Testing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Quality%20Assurance-green?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-- [Git](https://git-scm.com/)  
-- [GitHub](https://github.com/)  
-- Markdown  
+## 📌 Sobre mim
+🎯 Analista de Qualidade de Software com ampla experiência em **testes manuais**  
+💻 Conhecimento em **QA, Jira, Confluence e metodologias ágeis**  
+📚 Apaixonada por **aprendizado contínuo, colaboração em equipe e melhoria de processos**  
+
+---
+
+## 📜 Certificações
+- 🎓 **ATC-NF** – Analista de Teste Certificado  
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+- **Testes Manuais:** funcionais, regressivos, exploratórios, usabilidade, integração, performance  
+- **Testes de API:** Postman, Swagger  
+- **Bancos de Dados:** Oracle PLSQL  
+- **Gestão de Qualidade:** Jira, Xray, Zephyr, Confluence, TestLink  
+- **Metodologias:** Scrum, BDD, ShiftLeft Testing  
+- **Automação (aprendizado):** Cypress, Robot Framework  
+- **Controle de versão:** Git e GitHub  
+- **Metodologias Ágeis:** Scrum, Kanban  
 
 ---
 
 ## ✍️ Artigos e Conteúdos
-```bash
-Em breve vou compartilhar meus estudos sobre QA e automação.
+📖 Em breve vou compartilhar meus estudos sobre **QA** e **automação**.  
 
+---
 
 ## 📫 Onde me encontrar
-```bash
-https://www.linkedin.com/in/sarabalmeida/
+- 💼 [LinkedIn](https://www.linkedin.com/in/sarabalmeida/)  
+- 📧 **Email:** sara.almeida@email.com  
+
+---
+
+## 📝 Licença
+Este perfil e conteúdos são de uso pessoal e público para aprendizado.  
